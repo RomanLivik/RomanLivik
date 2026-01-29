@@ -6,7 +6,7 @@
         .terminal {
           background-color: #0d1117;
           color: #ff0000;
-          font-family: 'Courier New', Courier, monospace;
+          font-family: font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace;
           font-size: 13px;
           line-height: 1.2;
           white-space: pre;
@@ -15,21 +15,25 @@
           display: inline-block;
           text-shadow: 0 0 2px #ff0000;
           min-height: 480px
+          text-rendering: optimizeSpeed;
+          font-variant-ligatures: none;
+          letter-spacing: 0px;
         }
 
-        /* Матрица: координаты точно подобраны под пустую область */
+        
         .matrix-container {
           position: absolute;
-          top: 413px;     /* Подняли выше */
-          left: 370px;    /* Сдвинули левее */
-          width: 305px;   /* Ширина внутри рамки */
-          height: 80px;   /* Высота до нижней границы */
+          top: 413px;     
+          left: 370px;    
+          width: 305px;   
+          height: 80px;  
           overflow: hidden;
           display: flex;
           justify-content: space-around;
           font-size: 9px;
           text-shadow: none;
           opacity: 0.8;
+          font-weight: bold;
         }
 
         .m-col {
