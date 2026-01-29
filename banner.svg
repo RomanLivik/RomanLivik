@@ -1,0 +1,95 @@
+<svg fill="none" viewBox="0 0 820 440" width="820" height="440" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        * { margin: 0; padding: 0; }
+        .terminal {
+          background-color: #0d1117;
+          color: #ff0000;
+          font-family: 'Courier New', Courier, monospace;
+          font-size: 13px;
+          line-height: 1.2;
+          white-space: pre;
+          padding: 10px;
+          position: relative;
+          display: inline-block;
+          text-shadow: 0 0 2px #ff0000;
+        }
+
+        /* Матрица: координаты точно подобраны под пустую область */
+        .matrix-container {
+          position: absolute;
+          top: 413px;     /* Подняли выше */
+          left: 370px;    /* Сдвинули левее */
+          width: 305px;   /* Ширина внутри рамки */
+          height: 80px;   /* Высота до нижней границы */
+          overflow: hidden;
+          display: flex;
+          justify-content: space-around;
+          font-size: 9px;
+          text-shadow: none;
+          opacity: 0.8;
+        }
+
+        .m-col {
+          display: flex;
+          flex-direction: column;
+          animation: m-fall linear infinite;
+        }
+
+        @keyframes m-fall {
+          0% { transform: translateY(-100%); }
+          100% { transform: translateY(100%); }
+        }
+
+        .m-col span { padding-bottom: 4px; }
+      </style>
+
+      <div class="terminal">
+╭─────────────────────────────────────────────────────────────────────────────────────╮
+│╭───────────────────────────────────────────────────────────────────────────────────╮│
+││ ██████╗  ██████╗ ███╗   ███╗ █████╗ ███╗   ██╗    ██╗     ██╗██╗   ██╗██╗██╗  ██╗ ││
+││ ██╔══██╗██╔═══██╗████╗ ████║██╔══██╗████╗  ██║    ██║     ██║██║   ██║██║██║ ██╔╝ ││
+││ ██████╔╝██║   ██║██╔████╔██║███████║██╔██╗ ██║    ██║     ██║██║   ██║██║█████╔╝  ││
+││ ██╔══██╗██║   ██║██║╚██╔╝██║██╔══██║██║╚██╗██║    ██║     ██║╚██╗ ██╔╝██║██╔═██╗  ││
+││ ██║  ██║╚██████╔╝██║ ╚═╝ ██║██║  ██║██║ ╚████║    ███████╗██║ ╚████╔╝ ██║██║  ██╗ ││
+││ ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝    ╚══════╝╚═╝  ╚═══╝  ╚═╝╚═╝  ╚═╝ ││
+│╰───────────────────────────────────────────────────────────────────────────────────╯│
+│╭───────────────────────────────────────────╮╭──────────────────────────────────────╮│
+││                     00                    ││                                      ││
+││                     11                    ││       My OS                          ││
+││                    ====                   ││  󰻀   BlackArch Linux                 ││
+││                    .//                    ││     Linux Zen Kernel                ││
+││                   `o//:                   ││     Fish Terminal                   ││
+││                  `+o//o:                  ││                                      ││
+││                 `+oo//oo:                 │╰──────────────────────────────────────╯│
+││                 -+oo//oo+:                │╭──────────────────────────────────────╮│
+││               `/:-:+//ooo+:               ││                                      ││
+││              `/+++++//+++++:              ││ I am novice C++, C#/.NET Developer   ││
+││             `/++++++//++++++:             ││ I am just learning to programming    ││
+││            `/+++oooo//ooooooo/`           ││ but I am trying to do some projects  ││
+││           ./ooosssso//osssssso+`          ││ for GNU/Linux.                       ││
+││          .oossssso-`//`/ossssss+`         ││                                      ││
+││         -osssssso.  //  :ssssssso.        │╰──────────────────────────────────────╯│
+││        :osssssss/   //   osssso+++.       │╭──────────────────────────────────────╮│
+││       /ossssssss/   //   +ssssooo/-       ││                                      ││
+││     `/ossssso+/:-   //   -:/+osssso+-     ││                                      ││
+││    `+sso+:-`        //       `.-/+oso:    ││                                      ││
+││   `++:.             //            `-/+/   ││                                      ││
+││   .`                /                `/   ││                                      ││
+│╰───────────────────────────────────────────╯╰──────────────────────────────────────╯│
+╰─────────────────────────────────────────────────────────────────────────────────────╯
+        <div class="matrix-container">
+          <div class="m-col" style="animation-duration: 1.5s"><span>1</span><span>0</span><span>1</span><span>0</span><span>#</span><span>!</span><span>1</span><span>0</span></div>
+          <div class="m-col" style="animation-duration: 2.2s"><span>0</span><span>1</span><span>C++</span><span>1</span><span>0</span><span>1</span><span>0</span><span>1</span></div>
+          <div class="m-col" style="animation-duration: 3.1s"><span>1</span><span>0</span><span>1</span><span>0</span><span>C#</span><span>0</span><span>1</span><span>0</span></div>
+          <div class="m-col" style="animation-duration: 1.8s"><span>0</span><span>&amp;</span><span>ptr</span><span>0</span><span>1</span><span>0</span><span>1</span><span>0</span></div>
+          <div class="m-col" style="animation-duration: 2.5s"><span>1</span><span>0</span><span>1</span><span>asm</span><span>0</span><span>1</span><span>0</span><span>1</span></div>
+          <div class="m-col" style="animation-duration: 3.5s"><span>0</span><span>1</span><span>0</span><span>1</span><span>0</span><span>bin</span><span>1</span><span>0</span></div>
+          <div class="m-col" style="animation-duration: 2.0s"><span>#</span><span>0</span><span>1</span><span>0</span><span>1</span><span>0</span><span>1</span><span>0</span></div>
+          <div class="m-col" style="animation-duration: 4.0s"><span>1</span><span>kernel</span><span>0</span><span>1</span><span>0</span><span>1</span><span>0</span></div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
