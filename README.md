@@ -1,3 +1,11 @@
+## About me
+I am novice Full Stack Developer from Russia.
+* I am student of Moscow Technical University of Communications and Informatics
+* I am interested in unix-based systems, application development, customization of operation systems and security systems
+* In my free time, I try to learn something new in the IT world. For me, this is not just an income, but also a hobby.
+* I also try to write automation scripts to make life easier for me and for the Linux community.
+
+### My social networks :
 <div id="badges">
   <a href="https://t.me/n_oth1n_g">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
@@ -12,12 +20,6 @@
     <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="X Badge"/>
   </a>
 </div>
-
-## About me
-I am novice Full Stack Developer from Russia.
-* I am student of Moscow Technical University of Communications and Informatics
-* I am interested in unix-based systems, application development, customization of operation systems and security systems
-* In my free time, I try to learn something new in the IT world. For me, this is not just an income, but also a hobby.
 
 ### Languages and Tools :
 <div>
