@@ -1,3 +1,5 @@
+
+
 ## About me
 I am novice Full Stack Developer from Russia.
 * I am student of Moscow Technical University of Communications and Informatics
@@ -55,4 +57,7 @@ I am novice Full Stack Developer from Russia.
   <img src="https://github.com/devicons/devicon/blob/master/icons/linuxmint/linuxmint-original.svg" title="Linux Mint" alt="Linux Mint" width="40" weight="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nixos/nixos-original.svg" title="NixOS" alt="NixOS" width="40" weight="40"/>&nbsp;
 </div>
+
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RomanLivik&theme=react-dark&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true)
 
