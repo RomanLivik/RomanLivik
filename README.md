@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Roman%20Livik&fontSize=90&animation=fadeIn&fontAlignY=50" width="100%" />
+</div>
 
 ## About me
 I am novice Full Stack Developer from Russia.
@@ -7,56 +9,66 @@ I am novice Full Stack Developer from Russia.
 * In my free time, I try to learn something new in the IT world. For me, this is not just an income, but also a hobby.
 * I also try to write automation scripts to make life easier for me and for the Linux community.
 
-### My social networks :
-<div id="badges">
+<div align="center">
+  <h3>Connect with me</h3>
   <a href="https://t.me/n_oth1n_g">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-101217?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://steamcommunity.com/id/RomanLivik/">
-   <img src="https://img.shields.io/badge/Steam-darkblue?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/>
+    <img src="https://img.shields.io/badge/Steam-101217?style=for-the-badge&logo=steam&logoColor=white" />
   </a>
   <a href="https://x.com/n_0th1n_g?s=09">
-    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
+    <img src="https://img.shields.io/badge/X-101217?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/n_oth1n_g/profilecard/?igsh=YTE4ZmsyYmdlbTA5">
-    <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="X Badge"/>
+  <a href="https://www.instagram.com/n_oth1n_g/">
+    <img src="https://img.shields.io/badge/Instagram-101217?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
 
-### Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="35" height="35"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="35" height="35"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="35" height="35"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="35" height="35"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="35" height="35"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="35" height="35"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="35" height="35"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="CMake" alt="CMake" width="35" height="35"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="35" height="35"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="35" height="35"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" title="GCC" alt="GCC" width="35" height="35"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop" alt="Photoshop" width="35" height="35"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="35" height="35"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="35" height="35"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="35" height="35"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="35" height="35"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" widht="35" height="35"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="Visual Studio" alt="Visual Studio" width="35" height="35"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="WebStorm" alt="WebStorm" width="35" height="35"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="XCode" alt="XCode" width="35" height="35"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="35" height="35"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" title="NeoVim" alt="NeoVim" width="35" height="35"/>&nbsp;
+<!-- SECTION: HORIZONTAL TECH STACK -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/red.png" width="100%" height="3px" />
+  
+  <br/>
+  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/High%20Voltage.png" width="25"> Ecosystem & Mastery</h3>
+
+  <table border="0" cellspacing="0" cellpadding="0" align="center">
+    <!-- Row 1: Horizontal Headers -->
+    <tr>
+      <td align="center" width="220"><b><font color="#ff0000" size="4">LANGUAGES</font></b></td>
+      <td align="center" width="220"><b><font color="#ff0000" size="4">WEB & MOBILE</font></b></td>
+      <td align="center" width="220"><b><font color="#ff0000" size="4">SYSTEMS</font></b></td>
+      <td align="center" width="220"><b><font color="#ff0000" size="4">DEVELOPMENT</font></b></td>
+    </tr>
+    <!-- Row 2: Icons under headers -->
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://skillicons.dev/icons?i=cpp,cs,py,js,dart,swift,bash,gcc&perline=3" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://skillicons.dev/icons?i=flutter,html,css&perline=3" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://skillicons.dev/icons?i=mysql,docker,git,cmake&perline=2" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://skillicons.dev/icons?i=ps,vscode,visualstudio,webstorm,neovim,vim,xcode&perline=3" />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/red.png" width="100%" height="3px" />
 </div>
 
-### Favorite GNU/Linux distributions :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Arch Linux" alt="Arch Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gentoo/gentoo-original.svg" title="Gentoo" alt="Gentoo" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kalilinux/kalilinux-original.svg" title="Kali Linux" alt="Kali Linux" width="40" weight="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linuxmint/linuxmint-original.svg" title="Linux Mint" alt="Linux Mint" width="40" weight="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nixos/nixos-original.svg" title="NixOS" alt="NixOS" width="40" weight="40"/>&nbsp;
-</div>
+<h4 align="center">Favorite GNU/Linux Distributions</h4>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" title="Arch Linux" alt="Arch" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gentoo/gentoo-original.svg" title="Gentoo" alt="Gentoo" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" title="Kali Linux" alt="Kali" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linuxmint/linuxmint-original.svg" title="Linux Mint" alt="Mint" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" title="NixOS" alt="NixOS" width="50" height="50"/>
+</p>
 
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RomanLivik&theme=react-dark&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true)
