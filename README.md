@@ -6,8 +6,8 @@
 I am novice Full Stack Developer from Russia.
 * I am student of Moscow Technical University of Communications and Informatics
 * I am interested in unix-based systems, application development, customization of operation systems, ethical hacking and security systems
-* In my free time, I try to learn something new in the IT world. For me, this is not just an income, but also a hobby.
-* I also try to write automation scripts to make life easier for me and for Linux community.
+* In my free time, I try to learn something new in the IT world. For me, this is not just an income, but also a hobby
+* I also try to write automation scripts to make life easier for me and for Linux community
 
 ## The goal of my projects
 The goal of my projects is to create the most convenient, customizable, stable and interesting projects for the end user. Today I am developing solo, but I would also sincerely like to find a team of people with common interests and goals in development. In the future, I would like to create a full-fledged ecosystem of products for study, work, business and everyday use. I would like these products to significantly simplify the lives of students, businessmen, ordinary workers and others.
