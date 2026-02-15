@@ -83,5 +83,5 @@ Now I use 2 laptops and 1 PC for my work.
 
 
 <p align="center">
-  <img src="https://complex-github-widget-c9h2.vercel.app/api/widget?user=RomanLivik" alt="Militech Stats" width="100%" />
+  <img src="https://complex-github-widget-c9h2.vercel.app/api/widget?user=RomanLivik" height="100" width="120%" />
 </p>
