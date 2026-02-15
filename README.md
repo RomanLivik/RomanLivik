@@ -5,9 +5,20 @@
 ## About me
 I am novice Full Stack Developer from Russia.
 * I am student of Moscow Technical University of Communications and Informatics
-* I am interested in unix-based systems, application development, customization of operation systems and security systems
+* I am interested in unix-based systems, application development, customization of operation systems, ethical hacking and security systems
 * In my free time, I try to learn something new in the IT world. For me, this is not just an income, but also a hobby.
-* I also try to write automation scripts to make life easier for me and for the Linux community.
+* I also try to write automation scripts to make life easier for me and for Linux community.
+
+## The goal of my projects
+The goal of my projects is to create the most convenient, customizable, stable and interesting projects for the end user. Today I am developing solo, but I would also sincerely like to find a team of people with common interests and goals in development. In the future, I would like to create a full-fledged ecosystem of products for study, work, business and everyday use. I would like these products to significantly simplify the lives of students, businessmen, ordinary workers and others.
+
+## My Pc for work
+<img width="1918" height="1078" alt="Вставленное изображение" src="https://github.com/user-attachments/assets/ccd96162-8ef7-4983-bf13-59c795a8196a" />
+Now I use 2 laptops and 1 PC for my work. 
+
+* The first one is ThinkPad L13. It has an intel core i5-10310U, intel UHD Graphics, 16 GB RAM and 512 GB SSD. This is my favourite laptop and I just realy like it. I use it for wy work and ricing of operation systems like Arch, Gentoo and other.
+* The second one is MacBook Air 2024. It has M3 CPU, 8 GB RAM and 512 GB SSD. It has MacOS 26 Tahoe and I use it for watching some content, work with cryptocurrency and for office activity. Sometimes I use it for frontend development.
+* The last one is stationary PC. It has AMD Ryzen 5 3600, Nvidia GeForce GTX 1650 4 GB, 1 TB Kingston SSD, 16 GB DDR-4 Kingston Furry RAM. It has windows 11 and I use it for my work and gaming.
 
 <div align="center">
   <h3>Connect with me</h3>
