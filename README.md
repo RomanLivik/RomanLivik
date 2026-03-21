@@ -37,22 +37,19 @@ Now I use 2 laptops and 1 PC for my work.
   </a>
 </div>
 
-<!-- SECTION: HORIZONTAL TECH STACK -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/red.png" width="100%" height="3px" />
   
   <br/>
-  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/High%20Voltage.png" width="25"> Ecosystem & Mastery</h3>
+  <h3>Ecosystem & Mastery</h3>
 
   <table border="0" cellspacing="0" cellpadding="0" align="center">
-    <!-- Row 1: Horizontal Headers -->
     <tr>
       <td align="center" width="220"><b><font color="#ff0000" size="4">LANGUAGES</font></b></td>
       <td align="center" width="220"><b><font color="#ff0000" size="4">WEB & MOBILE</font></b></td>
       <td align="center" width="220"><b><font color="#ff0000" size="4">SYSTEMS</font></b></td>
       <td align="center" width="220"><b><font color="#ff0000" size="4">DEVELOPMENT</font></b></td>
     </tr>
-    <!-- Row 2: Icons under headers -->
     <tr>
       <td align="center" valign="top">
         <img src="https://skillicons.dev/icons?i=cpp,cs,py,js,dart,swift,bash,gcc&perline=3" />
