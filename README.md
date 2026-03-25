@@ -40,7 +40,7 @@ Now I use 2 laptops and 1 PC for my work.
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/red.png" width="100%" height="3px" />
   
-  <br/>
+ <br/>
   <h3>Ecosystem & Mastery</h3>
 
   <table border="0" cellspacing="0" cellpadding="0" align="center">
@@ -58,10 +58,10 @@ Now I use 2 laptops and 1 PC for my work.
         <img src="https://skillicons.dev/icons?i=flutter,html,css&perline=3" />
       </td>
       <td align="center" valign="top">
-        <img src="https://skillicons.dev/icons?i=mysql,docker,git,cmake&perline=2" />
+        <img src="https://skillicons.dev/icons?i=mysql,docker,git,cmake,qt&perline=2" />
       </td>
       <td align="center" valign="top">
-        <img src="https://skillicons.dev/icons?i=ps,vscode,visualstudio,webstorm,neovim,vim,xcode&perline=3" />
+        <img src="https://skillicons.dev/icons?i=ps,ai,figma,vscode,visualstudio,webstorm,neovim,vim,xcode&perline=3" />
       </td>
     </tr>
   </table>
