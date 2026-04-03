@@ -79,6 +79,8 @@ Now I use 2 laptops and 1 PC for my work.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" title="NixOS" alt="NixOS" width="50" height="50"/>
 </p>
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RomanLivik&theme=react-dark&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true)
+
 
 <p align="center">
   <img src="https://complex-github-widget-c9h2.vercel.app/api/widget?user=RomanLivik" height="100" width="120%" />
