@@ -1,3 +1,7 @@
+ <br/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/red.png" width="100%" height="3px" />
+</div>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Roman%20Livik&fontSize=90&animation=fadeIn&fontAlignY=50" width="100%" />
 </div>
@@ -92,3 +96,7 @@ Now I use 2 laptops and 1 PC for my work.
 </div>
 
 ![My Stats](https://complex-github-widget-c9h2.vercel.app/api/widget?username=RomanLivik)
+
+ <br/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/red.png" width="100%" height="3px" />
+</div>
