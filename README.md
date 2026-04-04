@@ -10,8 +10,16 @@ I am novice Full Stack Developer from Russia.
 * i just realy like GNU/Linux. This is my favourite operation system for daily using
 * I also try to write automation scripts to make life easier for me and for Linux community
 
+ <br/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/red.png" width="100%" height="3px" />
+</div>
+
 ## The goal of my projects
 The goal of my projects is to create the most convenient, customizable, stable and interesting projects for the end user. Today I am developing solo, but I would also sincerely like to find a team of people with common interests and goals in development. In the future, I would like to create a full-fledged ecosystem of products for study, work, business and everyday use. I would like these products to significantly simplify the lives of students, businessmen, ordinary workers and others.
+
+ <br/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/red.png" width="100%" height="3px" />
+</div>
 
 ## My Pc for work
 <img width="1918" height="1078" alt="Вставленное изображение" src="https://github.com/user-attachments/assets/ccd96162-8ef7-4983-bf13-59c795a8196a" />
@@ -78,5 +86,9 @@ Now I use 2 laptops and 1 PC for my work.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linuxmint/linuxmint-original.svg" title="Linux Mint" alt="Mint" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" title="NixOS" alt="NixOS" width="50" height="50"/>
 </p>
+
+ <br/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/red.png" width="100%" height="3px" />
+</div>
 
 ![My Stats](https://complex-github-widget-c9h2.vercel.app/api/widget?username=RomanLivik)
