@@ -55,32 +55,54 @@ Now I use 2 laptops and 1 PC for my work.
  <br/>
   <h3>Ecosystem & Mastery</h3>
 
-  <table border="0" cellspacing="0" cellpadding="0" align="center">
-    <tr>
-      <td align="center" width="220"><b><font color="#ff0000" size="4">LANGUAGES</font></b></td>
-      <td align="center" width="220"><b><font color="#ff0000" size="4">WEB & MOBILE</font></b></td>
-      <td align="center" width="220"><b><font color="#ff0000" size="4">SYSTEMS</font></b></td>
-      <td align="center" width="220"><b><font color="#ff0000" size="4">DEVELOPMENT</font></b></td>
-    </tr>
-    <tr>
-      <td align="center" valign="top">
-        <img src="https://skillicons.dev/icons?i=cpp,cs,py,js,dart,swift,bash,gcc&perline=3" />
-      </td>
-      <td align="center" valign="top">
-        <img src="https://skillicons.dev/icons?i=flutter,html,css&perline=3" />
-      </td>
-      <td align="center" valign="top">
-        <img src="https://skillicons.dev/icons?i=mysql,docker,git,cmake,qt&perline=2" />
-      </td>
-      <td align="center" valign="top">
-        <img src="https://skillicons.dev/icons?i=ps,ai,figma,vscode,visualstudio,webstorm,neovim,vim,xcode&perline=3" />
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/red.png" width="100%" height="3px" />
-</div>
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td align="center" width="220"><b><font color="#ff0000" size="4">LANGUAGES</font></b></td>
+    <td align="center" width="220"><b><font color="#ff0000" size="4">WEB & MOBILE</font></b></td>
+    <td align="center" width="220"><b><font color="#ff0000" size="4">SYSTEMS</font></b></td>
+    <td align="center" width="220"><b><font color="#ff0000" size="4">DEVELOPMENT</font></b></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://github.com/RomanLivik/Black-white-minimalistic-icons/blob/main/Programming%20Languages/C%2B%2B/cplusplus.svg" width="45" />
+      <img src="https://github.com/RomanLivik/Black-white-minimalistic-icons/blob/main/Programming%20Languages/C%23/csharp.svg" width="45" />
+      <img src="https://github.com/RomanLivik/Black-white-minimalistic-icons/blob/main/Programming%20Languages/Python/python.svg" width="45" />
+      <br />
+      <img src="https://github.com/RomanLivik/Black-white-minimalistic-icons/blob/main/Programming%20Languages/Javascript/javascript.svg" width="45" />
+      <img src="https://github.com/RomanLivik/Black-white-minimalistic-icons/blob/main/Programming%20Languages/Dart/dart.svg" width="45" />
+      <img src="https://github.com/RomanLivik/Black-white-minimalistic-icons/blob/main/Programming%20Languages/Swift/swift.svg" width="45" />
+      <br />
+      <img src="https://github.com/RomanLivik/Black-white-minimalistic-icons/blob/main/Programming%20Languages/Bash/bash.svg" width="45" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://github.com/RomanLivik/Black-white-minimalistic-icons/blob/main/Programming%20Languages/Flutter/flutter.svg" width="45" />
+      <img src="https://github.com/RomanLivik/Black-white-minimalistic-icons/blob/main/Programming%20Languages/Html/html.svg" width="45" />
+      <img src="https://github.com/RomanLivik/Black-white-minimalistic-icons/blob/main/Programming%20Languages/CSS/css.svg" width="45" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://github.com/RomanLivik/Black-white-minimalistic-icons/blob/main/Apps/MySQL/mysql.svg" width="45" />
+      <img src="https://github.com/RomanLivik/Black-white-minimalistic-icons/blob/main/Apps/Docker/docker.svg" width="45" />
+      <br />
+      <img src="https://github.com/RomanLivik/Black-white-minimalistic-icons/blob/main/Apps/Git/git.svg" width="45" />
+      <img src="https://github.com/RomanLivik/Black-white-minimalistic-icons/blob/main/Apps/CMake/cmake.svg" width="45" />
+      <br />
+      <img src="https://github.com/RomanLivik/Black-white-minimalistic-icons/blob/main/Apps/Qt/qt.svg" width="45" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://github.com/RomanLivik/Black-white-minimalistic-icons/blob/main/Apps/Photoshop/photoshop.svg" width="45" />
+      <img src="https://github.com/RomanLivik/Black-white-minimalistic-icons/blob/main/Apps/Illustrator/illustrator.svg" width="45" />
+      <img src="https://github.com/RomanLivik/Black-white-minimalistic-icons/blob/main/Apps/Figma/figma.svg" width="45" />
+      <br />
+      <img src="https://github.com/RomanLivik/Black-white-minimalistic-icons/blob/main/Apps/VSCode/vscode.svg" width="45" />
+      <img src="https://github.com/RomanLivik/Black-white-minimalistic-icons/blob/main/Apps/Visual%20Studio/visualstudio.svg" width="45" />
+      <img src="https://github.com/RomanLivik/Black-white-minimalistic-icons/blob/main/Apps/Webstorm/webstorm.svg" width="45" />
+      <br />
+      <img src="https://github.com/RomanLivik/Black-white-minimalistic-icons/blob/main/Apps/NeoVim/nvim.svg" width="45" />
+      <img src="https://github.com/RomanLivik/Black-white-minimalistic-icons/blob/main/Apps/Vim/vim.svg" width="45" />
+      <img src="https://github.com/RomanLivik/Black-white-minimalistic-icons/blob/main/Apps/Xcode/xcode.svg" width="45" />
+    </td>
+  </tr>
+</table>
 
 <h4 align="center">Favorite GNU/Linux Distributions</h4>
 <p align="center">
