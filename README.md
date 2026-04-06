@@ -13,7 +13,7 @@ I am novice Full Stack Developer from Russia.
 * In my free time, I try to learn something new in the IT world. For me, this is not just an income, but also a hobby
 * I just realy like GNU/Linux. This is my favourite operation system for daily using
 * I also try to write automation scripts, themes and other things to make life easier for me and for Linux community
-* Big part projects I made without other people
+* More than half part of my projects I made without other people
 
  <br/>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/red.png" width="100%" height="3px" />
