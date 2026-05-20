@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Roman%20Livik&fontSize=90&animation=fadeIn&fontAlignY=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Aleksandr%20Gadzhiev&fontSize=90&animation=fadeIn&fontAlignY=50" width="100%" />
 </div>
 
 ## About me
