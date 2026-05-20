@@ -118,7 +118,7 @@ Now I use 2 laptops and 1 PC for my work.
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/red.png" width="100%" height="3px" />
 </div>
 
-![My Stats](https://complex-github-widget-c9h2.vercel.app/api/widget?username=RomanLivik)
+![My Stats](https://complex-github-widget-c9h2.vercel.app/api/widget?username=GadzhievAleksandr)
 
  <br/>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/red.png" width="100%" height="3px" />
